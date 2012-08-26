@@ -1,6 +1,6 @@
 Command-line app for exporting GQueues Task Lists to Toggl Time Tracking. 
 
-I recommend you read the step-by-step ' GQ2Toggl Manuel.pdf ', which includes screenshots and diagrams. 
+I recommend you read the step-by-step ' GQ2Toggl Manual.pdf ', which includes screenshots and diagrams. 
 
 
 
